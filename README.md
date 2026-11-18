@@ -25,13 +25,14 @@ Anything you'd look up is already in your chat.
 
 - **Everything, connected.** Quests, items, recipes, NPCs and maps are linked: what a quest needs, where that item drops, where you turn it in, what it crafts. Your AI gets the whole picture in one place, not scraps from dozens of random sites.
 - **Current to the minute.** Every new build, patch and hotfix reaches thott.bot within minutes of landing, even the silent ones.
-- **Straight from Blizzard.** Game facts come from Blizzard's own files and posts, not old guides or forum guesses. Community builds and guides are labeled and credited.
+- **Straight from Blizzard.** Game facts come from Blizzard's own files and posts, not old guides or forum guesses. Community guides are labeled as such.
 
 ## What it knows
 
+- **Your characters:** link Battle.net and your AI knows the characters you actually play, their gear, talents, quests and more, updated every time you log out.
 - **Patch notes and changes:** every build and hotfix, and exactly what each changed.
 - **Quests and leveling:** every quest, its chain, route and rewards, and leveling guides.
-- **Talents and builds:** the builds players run right now, every spec's talent pick rates, and every talent change.
+- **Talents and builds:** the builds players run right now, counted daily from millions of real characters at every level, every spec's talent pick rates, and every talent change.
 - **Spells and abilities:** every spell and ability, and every change to each.
 - **Classes and races:** every class, race and racial, and what Forever changed for each.
 - **Items and gear:** every item and item set, where it drops and who sells it.
@@ -42,7 +43,7 @@ Anything you'd look up is already in your chat.
 - **Interface and addons:** every setting, key binding and chat command, the addon API and banned addons.
 - **Blizzard news:** news and developer posts (blue posts) from the official forums.
 
-In ChatGPT and Claude, ask to see it: the game's own tooltips, clickable talent trees, quest chains, maps and before-and-after cards.
+In ChatGPT and Claude, ask to see it: your characters' sheets with the gear and stats they logged out with, the game's own tooltips, clickable talent trees, quest chains, maps and before-and-after cards.
 
 ## Ask the way you already do
 
