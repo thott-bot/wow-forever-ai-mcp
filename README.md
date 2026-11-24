@@ -141,3 +141,5 @@ Bring your AI into Azeroth with [thott.bot chat](https://github.com/thott-bot/ch
 - `hermes/`: the Hermes plugin.
 
 There's no server code here: the plugins point your app at `https://mcp.thott.bot/mcp`.
+
+[![thott.bot MCP connector](https://glama.ai/mcp/connectors/bot.thott/thott-bot/badges/score.svg)](https://glama.ai/mcp/connectors/bot.thott/thott-bot)
